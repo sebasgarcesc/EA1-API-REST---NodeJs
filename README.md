@@ -27,7 +27,7 @@ Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
 - **Node.js y Express:** Entorno de ejecución y framework para la creación del servidor y las rutas REST.
 - **MongoDB Atlas y Mongoose:** Base de datos NoSQL en la nube y ODM para el modelado de esquemas y validaciones.
 - **Git y GitHub:** Control de versiones y repositorio de código fuente colaborativo.
-- **Thunder Client / Postman:** Herramientas para la prueba y consumo de los endpoints de la API.
+- **Thunder Client:** Herramienta para la prueba y consumo de los endpoints de la API.
 - **Dotenv y Cors:** Gestión de variables de entorno seguras y políticas de intercambio de recursos.
 
 ## Estructura del proyecto
