@@ -121,7 +121,7 @@ Instalar las dependencias de la raíz del proyecto:
 npm install
 ```
 
-Configurar un archivo `.env` en la raíz del proyecto[cite: 2, 7] con la siguiente estructura:
+Configurar un archivo `.env` en la raíz del proyecto con la siguiente estructura:
 
 ```env
 PORT=4000
