@@ -2,11 +2,11 @@
   "name": "api-peliculas-mongo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Backend/index.js",
   "scripts": {
     
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node Backend/index.js",
+    "dev": "nodemon Backend/index.js"
   },
   "keywords": [],
   "author": "",
